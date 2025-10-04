@@ -28,4 +28,5 @@ In your solution you must provide the following in your Github link account:
   Uploaded java codes for the solution.
 Upload your GitHub Solution link here.
 
-<img width="2234" height="1021" alt="Adapter Design Pattern UML" src="https://github.com/user-attachments/assets/2ef2c690-d84a-4470-9c1f-c3b24a3e06ce" />
+
+<img width="2234" height="1021" alt="Adapter Design Pattern UML (1)" src="https://github.com/user-attachments/assets/4ccfdd20-8f27-4c2d-8b21-412885a79724" />
