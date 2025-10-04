@@ -29,4 +29,5 @@ In your solution you must provide the following in your Github link account:
 Upload your GitHub Solution link here.
 
 
-<img width="2234" height="1021" alt="Adapter Design Pattern UML (1)" src="https://github.com/user-attachments/assets/4ccfdd20-8f27-4c2d-8b21-412885a79724" />
+
+<img width="2234" height="1021" alt="AdapterDesignPattern UML" src="https://github.com/user-attachments/assets/f0eea160-926e-4e03-bada-570cfe19a13c" />
